@@ -1,6 +1,6 @@
-#Sudoku Solver
+Sudoku Solver
 ------
-##Only works with legal Sudoku puzzles!
+Only works with legal Sudoku puzzles!
 
 Input/Output files
 	See sample_input.txt for formatting
